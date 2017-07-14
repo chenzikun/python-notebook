@@ -4,14 +4,16 @@ Welcome to python-notebook's documentation!
 ===========================================
 
 .. toctree::
+   :glob:
    :maxdepth: 2
    :caption: Contents:
 
-   技术栈及参考书籍
+   
    项目结构
+   pythonic/*
    Web编程框架
-   数据库
-   运维
+   python设计模式
+	
 
 
 Indices and tables
