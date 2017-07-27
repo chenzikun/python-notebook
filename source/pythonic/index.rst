@@ -3,7 +3,7 @@ Pythonic!
 
 .. toctree::
     :maxdepth: 2
-    :caption: 如何写Pythonic代码
+    :caption: Contents:
 
     代码规范
     命名

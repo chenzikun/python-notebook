@@ -1,7 +1,7 @@
 
 
-Welcome to python-notebook's documentation!
-===========================================
+Python-Notebook!
+================
 
 .. toctree::
    :glob:
@@ -13,6 +13,9 @@ Welcome to python-notebook's documentation!
    pythonic/*
    Web编程框架
    python设计模式
+   sqlalchemy/*
+   类与对象
+   异常处理
 	
 
 
